@@ -1,0 +1,15 @@
+Id CommandLine                          
+  -- -----------                          
+  try { . "c:\Users\Malleswari\AppDa...
+  python testing.py                    
+  git status                           
+  clear                                
+  git init                             
+  git add .                            
+  git commit -m "add testing files"    
+  git remote add origin https://gith...
+  git remote -v                        
+  git push -u origin master            
+  git push -u origin master --force    
+  clear                                
+  git init                             
