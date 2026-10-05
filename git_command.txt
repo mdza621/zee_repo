@@ -13,3 +13,5 @@ Id CommandLine
   git push -u origin master --force    
   clear                                
   git init                             
+
+This is some new changes
